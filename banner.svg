@@ -1,0 +1,21 @@
+<svg width="800" height="200" viewBox="0 0 800 200" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="800" height="200" rx="20" fill="url(#paint0_linear)"/>
+  <defs>
+    <linearGradient id="paint0_linear" x1="0" y1="0" x2="800" y2="200" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#2E3440"/>
+      <stop offset="1" stop-color="#4C566A"/>
+    </linearGradient>
+  </defs>
+  <!-- Decorative Grid -->
+  <path d="M0 40H800M0 80H800M0 120H800M0 160H800M40 0V200M80 0V200M120 0V200M160 0V200" stroke="#88C0D0" stroke-opacity="0.1"/>
+  
+  <!-- Text -->
+  <text x="50%" y="45%" dominant-baseline="middle" text-anchor="middle" font-family="Arial, sans-serif" font-size="48" font-weight="bold" fill="#88C0D0">Awesome-Quantization</text>
+  <text x="50%" y="65%" dominant-baseline="middle" text-anchor="middle" font-family="Arial, sans-serif" font-size="20" fill="#EBCB8B">Mastering Model Compression & Performance</text>
+  
+  <!-- Abstract Quantization Symbols (Nodes/Bits) -->
+  <circle cx="100" cy="100" r="10" fill="#BF616A" fill-opacity="0.8"/>
+  <circle cx="150" cy="150" r="15" fill="#A3BE8C" fill-opacity="0.8"/>
+  <circle cx="650" cy="50" r="12" fill="#B48EAD" fill-opacity="0.8"/>
+  <circle cx="700" cy="120" r="8" fill="#5E81AC" fill-opacity="0.8"/>
+</svg>
