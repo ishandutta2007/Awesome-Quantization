@@ -1,9 +1,11 @@
 <div align="center">
-  <img src="banner.svg" alt="Awesome Quantization Banner" width="100%">
+  <a href="https://github.com/your-username/Awesome-Quantization">
+    <img src="./banner.svg" alt="Awesome Quantization Banner" width="100%">
+  </a>
 
   # 🚀 Awesome-Quantization
 
-  [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+  [![Awesome](https://awesome.re/badge.svg)](https://github.com/ishandutta2007/awesome-awesome-awesome)
   [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
   [![Deep Learning](https://img.shields.io/badge/Field-Deep%20Learning-blue)](https://en.wikipedia.org/wiki/Deep_learning)
   [![Quantization](https://img.shields.io/badge/Focus-Model%20Compression-orange)](#)
