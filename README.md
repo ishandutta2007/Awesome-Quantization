@@ -1,6 +1,6 @@
 <div align="center">
-  <a href="https://github.com/your-username/Awesome-Quantization">
-    <img src="./banner.svg" alt="Awesome Quantization Banner" width="100%">
+  <a href="https://github.com/ishandutta2007/Awesome-Quantization">
+    <img src="https://raw.githubusercontent.com/ishandutta2007/Awesome-Quantization/main/banner.svg" alt="Awesome Quantization Banner" width="100%">
   </a>
 
   # 🚀 Awesome-Quantization
